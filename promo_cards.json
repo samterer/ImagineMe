@@ -1,13 +1,13 @@
 {
   "cards": [
     {
-      "image_url": "https://example.com/promo1.jpg",
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-1.jpg",
       "promo_text": "Try Cartoon Style",
       "style": "cartoon",
       "status": "active"
     },
     {
-      "image_url": "https://example.com/promo2.jpg",
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-2.jpg",
       "promo_text": "Imagine Anything",
       "style": "imagine-me",
       "status": "active"
