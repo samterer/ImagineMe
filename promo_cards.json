@@ -11,6 +11,42 @@
       "promo_text": "Imagine Anything",
       "style": "imagine-me",
       "status": "active"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-3.jpg",
+      "promo_text": "Imagine Anything",
+      "style": "imagine-me",
+      "status": "active"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-4.jpeg",
+      "promo_text": "Imagine Anything",
+      "style": "imagine-me",
+      "status": "active"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-5.jpg",
+      "promo_text": "Imagine Anything",
+      "style": "imagine-me",
+      "status": "active"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-6.jpg",
+      "promo_text": "Imagine Anything",
+      "style": "imagine-me",
+      "status": "active"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-7.jpg",
+      "promo_text": "Imagine Anything",
+      "style": "imagine-me",
+      "status": "active"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-8.jpg",
+      "promo_text": "Imagine Anything",
+      "style": "imagine-me",
+      "status": "active"
     }
   ]
 }
