@@ -2,7 +2,7 @@
   "cards": [
     {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-1.jpg",
-      "promo_text": "Try Cartoon Style",
+      "promo_text": "Cartoon Style",
       "style": "cartoon",
       "status": "active"
     },
@@ -14,14 +14,14 @@
     },
     {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-3.jpg",
-      "promo_text": "Imagine Anything",
+      "promo_text": "Imagine me flying a private jet",
       "style": "imagine-me",
       "status": "active"
     },
     {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-4.jpeg",
-      "promo_text": "Imagine Anything",
-      "style": "imagine-me",
+      "promo_text": "Remove background",
+      "style": "background-remove",
       "status": "active"
     },
     {
@@ -32,20 +32,20 @@
     },
     {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-6.jpg",
-      "promo_text": "Imagine Anything",
-      "style": "imagine-me",
+      "promo_text": "Japanese style",
+      "style": "japanese",
       "status": "active"
     },
     {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-7.jpg",
-      "promo_text": "Imagine Anything",
-      "style": "imagine-me",
+      "promo_text": "Restore blurry photos",
+      "style": "restore",
       "status": "active"
     },
     {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-8.jpg",
-      "promo_text": "Imagine Anything",
-      "style": "imagine-me",
+      "promo_text": "Cartoonify",
+      "style": "cartoon",
       "status": "active"
     }
   ]
