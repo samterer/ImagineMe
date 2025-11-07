@@ -2,32 +2,32 @@
   "cards": [
     {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-1.jpg",
-      "promo_text": "Cartoon Style",
-      "style": "cartoon",
-      "status": "active"
-    },
-    {
-      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-2.jpg",
-      "promo_text": "Imagine Anything",
+      "promo_text": "Imagine me in a vacation",
       "style": "imagine-me",
       "status": "active"
     },
     {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-2.jpg",
+      "promo_text": "Cartoon me",
+      "style": "cartoon",
+      "status": "active"
+    },
+    {
       "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-3.jpg",
+      "promo_text": "Watercolor art",
+      "style": "watercolor",
+      "status": "active"
+    },
+    {
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-4.jpeg",
       "promo_text": "Imagine me flying a private jet",
       "style": "imagine-me",
       "status": "active"
     },
     {
-      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-4.jpeg",
+      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-5.jpg",
       "promo_text": "Remove background",
       "style": "background-remove",
-      "status": "active"
-    },
-    {
-      "image_url": "https://raw.githubusercontent.com/samterer/ImagineMe/refs/heads/main/imgs/sample-5.jpg",
-      "promo_text": "Imagine Anything",
-      "style": "imagine-me",
       "status": "active"
     },
     {
