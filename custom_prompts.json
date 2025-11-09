@@ -1,0 +1,98 @@
+[
+  {
+    "categoryID": 1,
+    "CategoryName": "Luxury & Lifestyle",
+    "prompts": [
+      { "prompt": "Imagine me stepping out of a private jet onto a red carpet with a luxury car waiting nearby and photographers flashing.", "style": "imagine-me" },
+      { "prompt": "Imagine me relaxing in an infinity pool overlooking a city skyline at sunset, sipping a drink.", "style": "imagine-me" },
+      { "prompt": "Imagine me walking into a luxury fashion store wearing a designer suit, surrounded by high-end brands.", "style": "imagine-me" },
+      { "prompt": "Imagine me attending an exclusive gala dinner with chandeliers and elegant guests.", "style": "imagine-me" },
+      { "prompt": "Imagine me sitting in the back of a Rolls-Royce, looking out the window with confidence and class.", "style": "imagine-me" },
+      { "prompt": "Imagine me wearing a luxury watch while standing in front of a private jet and palm trees.", "style": "imagine-me" },
+      { "prompt": "Imagine me enjoying breakfast on a penthouse terrace overlooking the ocean.", "style": "imagine-me" },
+      { "prompt": "Imagine me arriving at a 5-star hotel in Monaco, greeted by staff and cameras flashing.", "style": "imagine-me" },
+      { "prompt": "Imagine me walking along a marina lined with superyachts under golden sunset light.", "style": "imagine-me" },
+      { "prompt": "Imagine me posing beside a Lamborghini in an ultra-modern villa driveway.", "style": "imagine-me" }
+    ]
+  },
+  {
+    "categoryID": 2,
+    "CategoryName": "Vacation & Relaxation",
+    "prompts": [
+      { "prompt": "Imagine me lying on a hammock between palm trees on a tropical island beach.", "style": "imagine-me" },
+      { "prompt": "Imagine me exploring a hidden waterfall deep in a lush rainforest.", "style": "imagine-me" },
+      { "prompt": "Imagine me enjoying breakfast on a floating tray in a luxury Bali villa pool.", "style": "imagine-me" },
+      { "prompt": "Imagine me walking barefoot along a quiet beach during golden hour.", "style": "imagine-me" },
+      { "prompt": "Imagine me watching fireworks over the ocean from a private villa balcony.", "style": "imagine-me" },
+      { "prompt": "Imagine me exploring the streets of Santorini with white walls and blue domes.", "style": "imagine-me" },
+      { "prompt": "Imagine me sipping coconut water on a hammock overlooking turquoise waters.", "style": "imagine-me" },
+      { "prompt": "Imagine me reading a book under an umbrella on a white sandy beach.", "style": "imagine-me" },
+      { "prompt": "Imagine me taking photos near colorful houses in Cinque Terre, Italy.", "style": "imagine-me" },
+      { "prompt": "Imagine me snorkeling in crystal-clear tropical waters surrounded by coral reefs.", "style": "imagine-me" }
+    ]
+  },
+  {
+    "categoryID": 3,
+    "CategoryName": "Power & Achievement",
+    "prompts": [
+      { "prompt": "Imagine me giving a motivational speech at a global conference with thousands of people applauding.", "style": "imagine-me" },
+      { "prompt": "Imagine me closing a multimillion-dollar business deal in a skyscraper office.", "style": "imagine-me" },
+      { "prompt": "Imagine me being featured on the cover of Forbes magazine as a visionary entrepreneur.", "style": "imagine-me" },
+      { "prompt": "Imagine me leading a team meeting in a futuristic glass-walled boardroom.", "style": "imagine-me" },
+      { "prompt": "Imagine me signing autographs after launching a world-changing product.", "style": "imagine-me" },
+      { "prompt": "Imagine me holding a trophy on stage under bright lights and camera flashes.", "style": "imagine-me" },
+      { "prompt": "Imagine me being interviewed on a live TV show about my achievements.", "style": "imagine-me" },
+      { "prompt": "Imagine me standing on top of a skyscraper overlooking the city, symbolizing success and ambition.", "style": "imagine-me" },
+      { "prompt": "Imagine me shaking hands with world leaders at an international summit.", "style": "imagine-me" },
+      { "prompt": "Imagine me walking confidently through a tech expo as the keynote innovator.", "style": "imagine-me" }
+    ]
+  },
+  {
+    "categoryID": 4,
+    "CategoryName": "Adventure & Travel",
+    "prompts": [
+      { "prompt": "Imagine me hiking through the Himalayas with clouds below my feet.", "style": "imagine-me" },
+      { "prompt": "Imagine me standing at the edge of the Grand Canyon at sunrise, arms open wide.", "style": "imagine-me" },
+      { "prompt": "Imagine me exploring an ancient temple in Cambodia with a guide lantern.", "style": "imagine-me" },
+      { "prompt": "Imagine me riding a camel past the Egyptian pyramids under golden sunlight.", "style": "imagine-me" },
+      { "prompt": "Imagine me paragliding over a turquoise lake surrounded by snow-capped mountains.", "style": "imagine-me" },
+      { "prompt": "Imagine me walking through cherry blossom trees in Japan, petals floating around.", "style": "imagine-me" },
+      { "prompt": "Imagine me taking a jeep safari across the African savannah at sunset.", "style": "imagine-me" },
+      { "prompt": "Imagine me kayaking between icebergs in Icelandic waters.", "style": "imagine-me" },
+      { "prompt": "Imagine me standing on a cliff in Ireland overlooking roaring waves.", "style": "imagine-me" },
+      { "prompt": "Imagine me exploring neon-lit streets of Tokyo with a camera at night.", "style": "imagine-me" }
+    ]
+  },
+  {
+    "categoryID": 5,
+    "CategoryName": "Funny & Whimsical",
+    "prompts": [
+      { "prompt": "Imagine me trying to eat a giant burger that’s bigger than my head.", "style": "imagine-me" },
+      { "prompt": "Imagine me running away from a goose that stole my sandwich.", "style": "imagine-me" },
+      { "prompt": "Imagine me floating through space holding a cup of coffee with no gravity.", "style": "imagine-me" },
+      { "prompt": "Imagine me dressed as a superhero but confused about how to fly.", "style": "imagine-me" },
+      { "prompt": "Imagine me accidentally walking into a movie set and pretending to be an actor.", "style": "imagine-me" },
+      { "prompt": "Imagine me in a dance battle with a robot and losing dramatically.", "style": "imagine-me" },
+      { "prompt": "Imagine me stuck in a traffic jam riding a scooter dressed like a boss.", "style": "imagine-me" },
+      { "prompt": "Imagine me trying to cook spaghetti that’s exploding everywhere.", "style": "imagine-me" },
+      { "prompt": "Imagine me winning a marathon by accident because I took the wrong turn.", "style": "imagine-me" },
+      { "prompt": "Imagine me doing yoga with a cat sitting on my head.", "style": "imagine-me" }
+    ]
+  },
+  {
+    "categoryID": 6,
+    "CategoryName": "A Moment with Celebrities",
+    "prompts": [
+      { "prompt": "Imagine me taking a selfie with Elon Musk in front of a rocket launch.", "style": "imagine-me" },
+      { "prompt": "Imagine me attending a dinner with Beyoncé and Jay-Z at a luxury restaurant.", "style": "imagine-me" },
+      { "prompt": "Imagine me playing basketball with LeBron James in a private gym.", "style": "imagine-me" },
+      { "prompt": "Imagine me walking the red carpet beside Zendaya and Tom Holland.", "style": "imagine-me" },
+      { "prompt": "Imagine me collaborating on a song with Drake in a high-end studio.", "style": "imagine-me" },
+      { "prompt": "Imagine me having coffee with Oprah while discussing success and purpose.", "style": "imagine-me" },
+      { "prompt": "Imagine me acting in a movie scene directed by Christopher Nolan.", "style": "imagine-me" },
+      { "prompt": "Imagine me laughing with Kevin Hart on a comedy show set.", "style": "imagine-me" },
+      { "prompt": "Imagine me doing a tech demo with Tim Cook at an Apple keynote.", "style": "imagine-me" },
+      { "prompt": "Imagine me sharing a stage performance with Rihanna in front of a huge audience.", "style": "imagine-me" }
+    ]
+  }
+]
